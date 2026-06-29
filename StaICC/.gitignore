@@ -1,0 +1,13 @@
+*.zip
+test.ipynb
+_test.ipynb
+*.sh
+*.o*
+*.jpg
+*.e*
+.ipynb_checkpoints
+*.npy
+*.csv
+*.log
+*.pickle
+__pycache__

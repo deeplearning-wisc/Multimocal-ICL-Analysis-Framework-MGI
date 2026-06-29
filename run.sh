@@ -1,0 +1,14 @@
+
+# python Experiments/mllm_vis_attntion_curve_indemo_in_right_area.py
+# 
+# python Experiments/mllm_vis_CORR_last_token2_demo_attn_curve.py
+# python Experiments/mllm_vis_ERROR_last_token2_demo_attn_curve.py
+# python Experiments/mllm_vis_CORR_attntion_curve_indemo_in_right_area.py
+# python Experiments/mllm_vis_ERROR_attntion_curve_indemo_in_right_area.py
+# python Experiments/mllm_vis_CORR_attntion_curve_query_in_right_area.py
+# python Experiments/mllm_vis_ERROR_attntion_curve_query_in_right_area.py
+
+# python Experiments/mllm_control_att_exp.py
+# python Experiments/mllm_exp3_all_cross_diff_model_text_only.py
+# python Experiments/mllm_exp1_v2.py
+python Experiments/IMP_mllm_ours_v1.py
