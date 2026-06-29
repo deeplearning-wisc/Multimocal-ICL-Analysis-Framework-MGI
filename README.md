@@ -49,7 +49,6 @@ conda env create -f environment.yaml
 conda activate icl_analysis
 ```
 
-**Image Installation (backup)**
 
 
 ## 🚀 Quick Start
